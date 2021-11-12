@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "lc-locale",
+        "repositoryURL": "https://github.com/gitmcfly/lc-locale.git",
+        "state": {
+          "branch": null,
+          "revision": "c71c9e59b49d3ae8bd9f8c17f10c4c47c9980823",
+          "version": "0.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
